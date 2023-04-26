@@ -1,3 +1,7 @@
+*{
+    background-color: #dfd0c7;
+}
+
 .container {
     display: flex;
     flex-direction: column;
@@ -35,6 +39,7 @@ input,
 textarea {
     width: 100%;
     font-size: large;
+    border: 2px solid black;
 }
 
 .btn-primary {
